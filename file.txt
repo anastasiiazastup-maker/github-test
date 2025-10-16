@@ -1,3 +1,7 @@
 Text for branch_2, rrr
 
 Add text for conflict 
+
+Test stash
+
+Test 
