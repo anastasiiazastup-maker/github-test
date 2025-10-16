@@ -1,1 +1,3 @@
 Text for branch_2
+
+Add text for conflict 
